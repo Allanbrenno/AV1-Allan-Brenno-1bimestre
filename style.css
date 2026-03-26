@@ -2,12 +2,49 @@
     color: rgb(1, 4, 32);
 }
 
-body {
+body{
     font-family: Arial, sans-serif;
-    background-color: rgb(124, 30, 30);
+    background-color: blue;
 }
 
 .biografia {
-    background-color: lightblue;
+    background-color: rgb(64, 214, 18);
     padding: 10px;
+}
+
+.texto {
+text-align: center;
+
+}
+
+.text {
+text-align: center;
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.link{
+
+    text-align: center;
+
+}
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
+
+ body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(241, 233, 233);
+    
+}
+
+.text3 {
+
+text-align: center;
+
 }
