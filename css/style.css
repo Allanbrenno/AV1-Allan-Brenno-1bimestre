@@ -1,11 +1,14 @@
-.cor {
-    color: rgb(1, 4, 32);
-}
-
 body{
     font-family: Arial, sans-serif;
     background-color: blue;
 }
+
+.cor {
+
+    color: rgb(1, 4, 32);
+}
+
+
 
 .biografia {
     background-color: rgb(64, 214, 18);
@@ -37,11 +40,11 @@ ol {
   text-align: center;
 }
 
- body {
+ /* body {
     font-family: Arial, sans-serif;
     background-color: rgb(241, 233, 233);
     
-}
+} */
 
 .text3 {
 
